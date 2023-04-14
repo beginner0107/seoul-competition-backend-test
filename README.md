@@ -61,6 +61,6 @@
 
 :computer: **Front-End ( Nextjs / Typescript(TS) / TailwindCSS / Redux-Toolkit )**
 
-:computer: **Back-End ( )**
+:computer: **Back-End ( Spring boot / Spring Data Jpa / MySQL )**
 
 # 참고 문헌
